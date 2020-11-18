@@ -1,2 +1,3 @@
 # CRUD_PHP
-Crudzada em PHP
+CRUD em php utilizando Orientação a Objetos
+
